@@ -1,8 +1,10 @@
 # DAWN-Sim
 A Simple Distributed Algorithm Simulator for Research and Teaching. The simulator is based on WsnSimPy. It has also visualized version in it.
+This project has been forked, and retrofitted to Python 3.13, changes are minimal and shouldn't intervene with the simulators capabilities and functionality.
+
 
 ## Pre-requirements
-Python version is 3.8
+Python version is 3.13
 
 Install SimPy library
 
@@ -69,3 +71,5 @@ The aodv simulates the AODV routing algorithm in the visualized version. Execute
 ## Citation
 
     Tosun, M., Cabuk, U. C., Dagdeviren, O., & Ozturk, Y. (2023, February). DAWN-Sim: A Distributed Algorithm Simulator for Wireless Ad-hoc Networks in Python. In 2023 International Conference on Computing, Networking and Communications (ICNC). IEEE.
+
+
